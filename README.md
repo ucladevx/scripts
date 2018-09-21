@@ -6,7 +6,7 @@ This script is to determine if a request for money can be granted for a specific
 to run:
 ` $ python financeAlg.py <team name in all lowercase no spaces> <amount you want to request> <priority level> `
 
-ie: `$ python financeAlg internaldev 80 3`
+ie: `$ python financeAlg.py internaldev 80 3`
   
 Priority levels:
   

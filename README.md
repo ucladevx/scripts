@@ -5,6 +5,7 @@ These are some scripts that were scrapped together that may or not be useful in 
 This script is to determine if a request for money can be granted for a specific team in an unbiased way. Right now, it contains fake data. This algorithm is still being fine tuned.
 to run:
 ' $ python financeAlg.py <team name in all lowercase no spaces> <amount you want to request> <priority level> '
+  
 Priority levels:
   
   Priority 1 (will the project not be able to function without it?):
